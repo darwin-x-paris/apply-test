@@ -1,6 +1,6 @@
 # 🚀 Let the journey begin
 
-You work at Darwin X since a while. 
+You've been working at Darwin X for a while.
 
 For several reasons, you have to work on this project.
 
