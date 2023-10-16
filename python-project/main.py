@@ -4,7 +4,7 @@ from flask import Flask
 
 # Requirements :
 # - Pandas is your friend
-# - Data sanititation is not an illness
+# - Data sanitation is not an illness
 
 # TODO :
 #   An investor has an initial wallet value. In performance, you can check performance of the wallet for each date.
